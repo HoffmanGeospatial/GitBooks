@@ -1,9 +1,10 @@
 ---
-icon: book-atlas
+description: The United States Geospatial Intelligence Foundation
+icon: book-open
 cover: >-
-  https://images.unsplash.com/photo-1580617362463-91dad98a82df?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxnZW98ZW58MHx8fHwxNzQwMDIyNTk0fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
+  https://images.unsplash.com/photo-1584202257553-4c07e497b675?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxtYXBwaW5nfGVufDB8fHx8MTc0MDk0Mzk3NHww&ixlib=rb-4.0.3&q=85
+coverY: 137
 ---
 
-# FGDC Technical Guidance:     Metadata Recommendations
+# Geospatial Intelligence Essential Body of Knowledge 3.0
 
