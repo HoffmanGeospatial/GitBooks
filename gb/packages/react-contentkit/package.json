@@ -1,0 +1,30 @@
+{
+    "name": "@gitbook/react-contentkit",
+    "version": "0.6.0",
+    "exports": {
+        ".": {
+            "types": "./dist/index.d.ts",
+            "development": "./src/index.ts",
+            "default": "./dist/index.js"
+        }
+    },
+    "dependencies": {
+        "classnames": "^2.5.1",
+        "@gitbook/api": "0.96.1",
+        "assert-never": "^1.2.1",
+        "@gitbook/icons": "workspace:*"
+    },
+    "peerDependencies": {
+        "react": "*"
+    },
+    "devDependencies": {
+        "typescript": "^5.5.3"
+    },
+    "scripts": {
+        "build": "tsc",
+        "typecheck": "tsc --noEmit",
+        "dev": "tsc -w",
+        "clean": "rm -rf ./dist"
+    },
+    "files": ["dist", "src", "README.md", "CHANGELOG.md"]
+}
